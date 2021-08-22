@@ -17,3 +17,11 @@ lesson 3 : Reset
 =====================================================================================
 lesson 4 : Offset
 *col-(nameScreen)-offset-(number) // col-lg-offset-!!
+=====================================================================================
+lesson 5 : Ordering
+*col-(name screen)-push-(number to push)
+*col-(name screen)-pull-(number to pull)
+=====================================================================================
+lesson 6 : Nested
+* class="img-responsive" to mike responsive image 
+* class = "lead" this for paragraph 
